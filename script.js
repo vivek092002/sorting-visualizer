@@ -95,7 +95,7 @@ let barArray = [];
 createNewArray();
 
 // To create new barArray input size of barArray
-function createNewArray(noOfBars = 60) {
+function createNewArray(noOfBars = 30) {
     // calling helper function to delete old bars from dom
     deleteChild();
 
